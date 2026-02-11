@@ -15,3 +15,9 @@ When the device is moved in the correct direction, the score is increased by 1, 
 - Tracks and displays player score dynamically
 - Infinite randomized gameplay
 - Uses Wear OS accelerometer data
+
+## How to Run
+1. Download or clone the repository  
+2. Open it in Android Studio  
+3. Build the project
+4. Run it on a Wear OS emulator or device  
